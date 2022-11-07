@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @adikalli
+- 👋 Hi, I’m Aditya Bhat
 - 👀 I’m interested in Learning new technologies
 - 🌱 I’m currently learning Pyspark , Python ,ML 
 - 💞️ I’m looking to collaborate on Python and Big Data Projects
